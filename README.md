@@ -1,4 +1,4 @@
-# Hindi-and-Tamil-Question-Answering
+# Question Answering System for Indian Languages (Hindi, Tamil)
 
 This contains the code for the results obtained using mBERT, XLM-Roberta and indic-NLP on chaii dataset.
 
