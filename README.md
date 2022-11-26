@@ -30,6 +30,6 @@ For testing we have prepared the `submission.csv` file which is in the format de
 |       Model       |jaccard_score |  
 | ------------------- | ------------- | 
 | mBERT | 0.528     | 
-| XLM-RoBERTa(pretrained on xquad) | 0.567|
-| XLM-RoBERTa(pretrained on squadv2) | 0.586|
-| XLM-RoBERTa(pretrained on squad, finetuned with mlqa,xquad, chaii)|0.626|
+| XLM-RoBERTa | 0.567|
+| XLM-RoBERTa(Fine-Tuned Chaii) | 0.586|
+| XLM-RoBERTa(Fine-Tuned with mlqa,xquad, chaii)|0.626|
